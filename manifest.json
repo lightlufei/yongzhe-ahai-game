@@ -1,0 +1,11 @@
+{
+  "name": "勇者阿海传",
+  "short_name": "阿海传",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#171321",
+  "theme_color": "#171321"
+}
